@@ -13,7 +13,7 @@
 title: Zeba Karishma
 
 # Your name to show in the footer
-author: Some Person
+author: Zeba Karishma
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -53,17 +53,18 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "zeba.karishma@yahooinc.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
+#  facebook: deanattali
+  github: zebaKarishma
   twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: zebakarishma
+  googlescholar: "https://scholar.google.com/citations?user=z-UzOEUAAAAJ&hl=en"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -88,6 +89,7 @@ social-network-links:
 
 include:
   - Project reports
+
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
 rss-description: This website is a virtual proof that I'm awesome
@@ -274,14 +276,14 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+#  -
+#    scope:
+#      path: ""
+#      type: "posts"
+#    values:
+#      layout: "post"
+#      comments: true  # add comments to all blog posts
+#      social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
