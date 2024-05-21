@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: Zeba Karishma
 
 # Your name to show in the footer
 author: Some Person
@@ -21,10 +21,13 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Publications: "publications"
+  CV: "https://zebaKarishma.github.io/Project%20reports/Resume_ZK.pdf"
+  Contact: "contact"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -83,6 +86,8 @@ social-network-links:
 #  itchio: yourname
 #  untappd: yourname
 
+include:
+  - Project reports
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
 rss-description: This website is a virtual proof that I'm awesome
