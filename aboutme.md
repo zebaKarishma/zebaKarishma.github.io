@@ -2,8 +2,8 @@
 layout: page
 title: About me
 subtitle: Why you'd want to collaborate with me?
-
 ---
+
 Hi there! I'm a passionate and dedicated researcher in the field of artificial intelligence, with a strong background in software development and machine learning. I am currently working at Yahoo! Inc., where I am developing and continually enhancing an AI/ML-based ETL pipeline that powers Yahoo Location search. I am also designing a geo-spatial matching algorithm with Apache Spark and Sedona, tackling large-scale geo datasets and complex spatial queries.
 
 I completed my MS in the Computer Science and Engineering Department at Pennsylvania State University, where I was co-advised by Dr. C. Lee Giles and Dr. Jian Wu. My research focused on deep learning pipelines for extracting, clustering, and classifying scientific figures using Vision Transformers (ViT). At the Intelligent Information Systems Lab, I primarily contributed to boosting the capabilities of search engines like COVIDSeer and CiteSeer, demonstrating my expertise in search engines.
@@ -14,36 +14,32 @@ I'm particularly passionate about contributing to the development of multimodal 
 
 <div style="flex: 1; padding-right: 10px;">
 
-## Education
+<h2>Education</h2>
 
-**MS, Computer Science and Engineering**<br>
+<p>MS, Computer Science and Engineering<br>
 Pennsylvania State University<br>
-Aug. 2019  — Aug. 2021<br><br>
+<span style="font-size: small; color: grey;">Aug. 2019 — Aug. 2021</span></p>
 
-**BE, Information Technology**<br>
+<p>BE, Information Technology<br>
 Birla Institute of Technology, Mesra<br>
-Aug. 2012 — May 2016
+<span style="font-size: small; color: grey;">Aug. 2012 — May 2016</span></p>
 
 </div>
 
 <div style="flex: 1; padding-left: 10px;">
 
-## Work Experience
+<h2>Work Experience</h2>
 
-**SDE, Yahoo! Inc**<br>
-Sept 2021 — Present<br><br>
-
-**Research Assistant, Penn State**<br>
-Aug 2020 — Aug 2021<br><br>
-
-**Data Engineering Intern, Verizon Media**<br> 
-May 2020 — Aug. 2020<br><br>
-
-**Senior Software Engineer, Comviva**<br>
-Dec 2018 — June 2019<br><br>
-
-**Software Engineer, Comviva**<br>
-Jun 2016 — Dec 2018
+<p style="margin: 10px;">SDE,<span style="color: black;"> Yahoo! Inc</span><br>
+<span style="font-size: small; color: grey;">Sept 2021 — Present</span></p>
+<p style="margin: 10px;">Research Assistant,<span style="color: black;">Penn State</span><br>
+<span style="font-size: small; color: grey;">Aug 2020 — Aug 2021</span></p>
+<p style="margin: 10px;">Data Engineering Intern,<span style="color: black;">Verizon Media</span><br> 
+<span style="font-size: small; color: grey;">May 2020 — Aug. 2020</span></p>
+<p style="margin: 10px;">Senior Software Engineer,<span style="color: black;">Comviva</span><br>
+<span style="font-size: small; color: grey;">Dec 2018 — June 2019</span></p>
+<p style="margin: 10px;">Software Engineer,<span style="color: black;">Comviva</span><br>
+<span style="font-size: small; color: grey;">Jun 2016 — Dec 2018</span></p>
 
 </div>
 
