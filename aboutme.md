@@ -16,12 +16,12 @@ I'm particularly passionate about contributing to the development of multimodal 
 
 ## Education
 
-**MS, Computer Science and Engineering**  
-Pennsylvania State University  
-Aug. 2019  — Aug. 2021
+**MS, Computer Science and Engineering**<br>
+Pennsylvania State University<br>
+Aug. 2019  — Aug. 2021<br><br>
 
-**BE, Information Technology**  
-Birla Institute of Technology, Mesra  
+**BE, Information Technology**<br>
+Birla Institute of Technology, Mesra<br>
 Aug. 2012 — May 2016
 
 </div>
@@ -30,19 +30,19 @@ Aug. 2012 — May 2016
 
 ## Work Experience
 
-**SDE, Yahoo! Inc**  
-Sept 2021 — Present
+**SDE, Yahoo! Inc**<br>
+Sept 2021 — Present<br><br>
 
-**Research Assistant, Penn State**  
-Aug 2020 — Aug 2021
+**Research Assistant, Penn State**<br>
+Aug 2020 — Aug 2021<br><br>
 
-**Data Engineering Intern, Verizon Media**  
-May 2020 — Aug. 2020
+**Data Engineering Intern, Verizon Media**<br> 
+May 2020 — Aug. 2020<br><br>
 
-**Senior Software Engineer, Comviva**  
-Dec 2018 — June 2019
+**Senior Software Engineer, Comviva**<br>
+Dec 2018 — June 2019<br><br>
 
-**Software Engineer, Comviva**  
+**Software Engineer, Comviva**<br>
 Jun 2016 — Dec 2018
 
 </div>
